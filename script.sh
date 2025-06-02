@@ -1,6 +1,6 @@
 #!/bin/bash
 git --version
-if [$? -eq 0]
+if [ $? -eq 0 ]
 then
 	echo "git is installed"
 else
