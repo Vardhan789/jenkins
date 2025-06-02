@@ -5,4 +5,4 @@ then
 	echo "git is installed"
 else
 	echo "hit not installed"
-f:wq!i
+fi
